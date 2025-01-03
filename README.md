@@ -1,2 +1,2 @@
 # next-website
-website built with next.js
+A next website
